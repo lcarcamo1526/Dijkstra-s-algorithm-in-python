@@ -1,2 +1,2 @@
-# DIJKSTRA-ALGORITHM-PYTHON
-Dijsktra Algorithm using Python with Jupyter Notebooks
+# Dijkstra's algorithm in python
+Dijkstra's algorithm in python with Jupyter Notebooks
